@@ -1,4 +1,2 @@
-# Tutorial linea temporal en HTML
-
-HTML y CSS. Modificado en VSC.
+# Linea temporal en HTML5 y CSS
 https://jemuth.github.io/linea-temporal/
