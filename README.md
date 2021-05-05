@@ -1,2 +1,2 @@
 # Linea temporal en HTML5 y CSS
-https://jemuth.github.io/linea-temporal/
+Ejemplo de como crear una linea temporal desplegable en HTML5 y CSS.
